@@ -1,159 +1,110 @@
 <div align="center">
 
-  
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║  dulith.divisekara / cybersec student / guitarist /         ║
+║  travel vlogger / Sri Lanka 🇱🇰                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-# Hi there, I'm Dulith Divisekara 👋
-
-  
-
-### Software Developer • ICT Enthusiast • Creative Storyteller
-
-  
-
-I’m passionate about building clean, useful, and impactful digital solutions — while also capturing life’s melodies through travel, creativity, and technology.
-
-  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;ICT+Learner+%26+Problem+Solver;Creator+of+Digital+Experiences;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Full-Stack+Dev;Linux+%7C+Networking+%7C+Spring+Boot;I+build+things+and+sometimes+break+them;Guitar+%7C+Travel+%7C+Code)](https://git.io/typing-svg)
 
 </div>
 
-  
+---
+
+## $ cat about.txt
+
+Cybersecurity student at SLIIT. I spend most of my time in the terminal, building stuff, poking at networks, and figuring out how things actually work under the hood.
+
+When I'm not coding I'm either shooting a travel vlog or playing guitar. Same curiosity, different medium.
+
+```bash
+$ cat dulith.conf
+
+location    = Sri Lanka 🇱🇰
+learning    = Bettercap · Spring Boot · Linux Networking
+interests   = Cybersecurity · Full-Stack Dev · Content Creation
+outside     = Travel vlogs · Guitar covers
+```
 
 ---
 
-  
+## $ ls ./skills
 
-## 👨‍💻 About Me
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,cpp&theme=dark" />
+</p>
 
-  
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,bootstrap,tailwind&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on improving my **software development, web development, and problem-solving skills**
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
 
-- 🌱 I’m currently learning **modern full-stack development, clean UI design, and scalable application architecture**
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,postman,docker&theme=dark" />
+</p>
 
-- 👯 I’m open to collaborating on **web apps, student projects, open-source tools, and creative tech projects**
-
-- 💬 Ask me about **web development, ICT, content creation, video editing, and digital storytelling**
-
-- 🎬 Beyond coding, I create **travel vlogs and guitar covers**
-
-- 📍 Based in **Kandy, Sri Lanka**
-
-- ⚡ Fun fact: I love combining **technology, storytelling, music, and travel** into creative digital experiences
-
-  
+### Security & Networking
+```
+Bettercap  ·  Wireshark  ·  net.recon / net.probe  ·  ip / route  ·  nmap
+```
 
 ---
 
-  
+## $ git log --oneline
 
-## 🌐 Connect With Me
+| Project | Stack | What it is |
+|---|---|---|
+| 🎟️ **Ticket Booking System** | Java · Spring Boot · REST | Full CRUD event manager with file-based storage, session auth via `AuthInterceptor`, MVC structure |
+| 🌳 **Employee BST Manager** | Java | Binary Search Tree with proper OOP, private recursive helpers |
+| 🧠 **Discrete Math Quiz** | HTML · JS | 129-question quiz I built to study for my own lab test |
+| 🔒 **Linux Recon Notes** | Bettercap · Obsidian | Personal command references with real terminal output and Mermaid diagrams |
 
-  
+---
+
+## $ ./stats.sh
 
 <div align="center">
 
-  
+![Dulith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulithdivisekara&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=8B9FC7&bg_color=0D1117)
 
-<a href="https://linkedin.com/in/dulithdivisekara">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithdivisekara&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF&text_color=8B9FC7&bg_color=0D1117)
 
-  <img src="https://img.shields.io/badge/LinkedIn-Dulith%20Divisekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-</a>
-
-  
-
-<a href="https://www.youtube.com/@dulithdivisekara">
-
-  <img src="https://img.shields.io/badge/YouTube-Dulith%20Divisekara-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
-</a>
-
-  
-
-<a href="mailto:YOUR_EMAIL_HERE">
-
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-</a>
-
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=dulithdivisekara&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 </div>
 
-  
+---
+
+## $ ping me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dulithdivisekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulithdivisekara)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-dulithdivisekara-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dulithdivisekara)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulithdivisekara@gmail.com)
+
+</div>
 
 ---
 
-  
+<div align="center">
 
-## 🛠️ Tech Stack & Tools
+```
+> if something is broken, I probably broke it on purpose
+```
 
-  
+![Profile Views](https://komarev.com/ghpvc/?username=dulithdivisekara&color=00D4FF&style=flat-square&label=Profile+Views)
 
-### Languages
-
-  
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
-
-</p>
-
-  
-
-### Frameworks & Libraries
-
-  
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
-
-</p>
-
-  
-
-### Databases
-
-  
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</p>
-
-  
-
-### Tools & Platforms
-
-  
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
-
-</p>
-
-  
-
----
-
-  
-
-## 🚀 What I’m Focused On
-
-  
-
-```txt
-
-Learning by building.
-
-Improving through consistency.
-
-Creating solutions that are simple, useful, and meaningful.
+</div>
