@@ -3,8 +3,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  > whoami                                                    ║
-║  dulith.divisekara / cybersec student / guitarist /         ║
-║  travel vlogger / Sri Lanka 🇱🇰                              ║
+║  dulith.divisekara / cybersec student / guitarist /          ║
+║  travel vlogger / Sri Lanka 🇱🇰                               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
