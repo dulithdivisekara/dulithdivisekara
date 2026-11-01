@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="#interactive-terminal-resume">Terminal CV</a> &bull;
+  <a href="#about-me">About Me</a> &bull;
+  <a href="#terminal-cv">Terminal CV</a> &bull;
   <a href="#featured-systems">Featured Systems</a> &bull;
   <a href="#published-browser-extensions">Published Extensions</a> &bull;
   <a href="#technical-arsenal">Tech Arsenal</a> &bull;
@@ -27,17 +28,21 @@
 
 ---
 
-## Interactive Terminal Resume
+## About Me
+
+I am a Cybersecurity undergraduate at SLIIT who builds systems. I combine core computer science fundamentals, network protocol analysis, and security engineering with modern developer tooling to design, build, and deploy functional software fast.
+
+My engineering philosophy centers on practical utility and systems-level leverage. Rather than building theoretical exercises, I focus on solving tangible friction points: reverse-engineering hardware interfaces to build autonomous router management suites, architecting Model Context Protocol (MCP) servers for AI copilots, and developing distraction-free browser extensions published across official web stores. I care deeply about how systems operate across the wire, from raw TCP packets to serverless V8 isolates, maintaining a strict commitment to clean architecture, zero unnecessary bloat, and defensive security.
+
+---
+
+## Terminal CV
 
 Query my serverless edge portfolio deployed across Cloudflare Workers directly from your shell:
 
 ```bash
 curl -s whoami.dulith.me
 ```
-
-<p align="center">
-  <img src="assets/terminal_full_transparent.png" alt="Terminal CV Transparent Output" width="800" />
-</p>
 
 <details>
   <summary><b>View Advanced Shell Endpoints</b></summary>
