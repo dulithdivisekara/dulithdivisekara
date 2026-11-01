@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="#about-me">About Me</a> &bull;
   <a href="#terminal-cv">Terminal CV</a> &bull;
   <a href="#featured-systems">Featured Systems</a> &bull;
   <a href="#published-browser-extensions">Published Extensions</a> &bull;
@@ -27,8 +26,6 @@
 </p>
 
 ---
-
-## About Me
 
 I am a Cybersecurity undergraduate at SLIIT who builds systems. I combine core computer science fundamentals, network protocol analysis, and security engineering with modern developer tooling to design, build, and deploy functional software fast.
 
@@ -60,12 +57,12 @@ curl -s whoami.dulith.me
 
 | System | Architecture & Engineering Focus | Primary Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **TP-Link Router Suite & MCP** | Universal production CLI and Model Context Protocol (FastMCP 2.x) server enabling AI copilots to programmatically inspect and configure routers (LTE band locks, BBR congestion control, USSD, SMS). | Python, FastMCP, Socket, Linux | [![tplink-router-builder](https://img.shields.io/badge/tplink--router--builder-161b22?style=flat-square&logo=python&logoColor=3776AB)](https://github.com/dulithdivisekara/tplink-router-builder) |
-| **Terminal Edge CV** | Zero-dependency serverless resume running on V8 edge isolates with dual-surface routing: native ANSI for shell clients and automated redirects for web browsers. | JavaScript, Cloudflare Workers, Fetch API | [![terminal-cv](https://img.shields.io/badge/terminal--cv-161b22?style=flat-square&logo=cloudflare&logoColor=F38020)](https://github.com/dulithdivisekara/terminal-cv) |
-| **SLIIT CourseWeb Cleaner** | Context-aware Moodle optimization platform filtering unassigned campus modules, injecting custom dark mode, and deployed across major official browser extension stores. | JavaScript, DOM, CSS, WebExtensions API | [![sliit-courseweb-cleaner](https://img.shields.io/badge/sliit--courseweb--cleaner-161b22?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://github.com/dulithdivisekara/sliit-courseweb-cleaner) |
-| **SLIIT CourseWeb MCP Server** | Autonomous Model Context Protocol (MCP) server for SLIIT CourseWeb (Moodle), bridging course documents, assignments, and announcements directly to AI assistants. | Python, MCP Protocol, Moodle API | [![mcp-sliit-courseweb](https://img.shields.io/badge/mcp--sliit--courseweb-161b22?style=flat-square&logo=anthropic&logoColor=D97706)](https://github.com/dulithdivisekara/mcp-sliit-courseweb) |
-| **Enterprise Pharmacy Platform** | Full-stack prescription verification and pharmacist triage platform with Dockerized containerization and relational database modeling. | Java, Jakarta EE, PostgreSQL, Docker | [![drug-ordering-system](https://img.shields.io/badge/drug--ordering--system-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)](https://github.com/dulithdivisekara/drug-ordering-system) |
-| **MovieLens Classifier Benchmark** | Empirical evaluation and variance analysis of 6 classification architectures on MovieLens 32M using stratified k-fold cross-validation. | Python, Scikit-learn, Pandas, Jupyter | [![movielens-satisfaction](https://img.shields.io/badge/movielens--satisfaction-161b22?style=flat-square&logo=scikitlearn&logoColor=F7931E)](https://github.com/dulithdivisekara/movielens-satisfaction-prediction) |
+| **TP-Link Router Suite & MCP** | Universal production CLI and Model Context Protocol (FastMCP 2.x) server enabling AI copilots to programmatically inspect and configure routers (LTE band locks, BBR congestion control, USSD, SMS). | Python, FastMCP, Socket, Linux | <a href="https://github.com/dulithdivisekara/tplink-router-builder"><img src="assets/icons/python.png" width="20" height="20" align="absmiddle" alt="Python" /> <code>tplink-router-builder</code></a> |
+| **Terminal Edge CV** | Zero-dependency serverless resume running on V8 edge isolates with dual-surface routing: native ANSI for shell clients and automated redirects for web browsers. | JavaScript, Cloudflare Workers, Fetch API | <a href="https://github.com/dulithdivisekara/terminal-cv"><img src="assets/icons/cloudflare.png" width="20" height="20" align="absmiddle" alt="Cloudflare" /> <code>terminal-cv</code></a> |
+| **SLIIT CourseWeb Cleaner** | Context-aware Moodle optimization platform filtering unassigned campus modules, injecting custom dark mode, and deployed across major official browser extension stores. | JavaScript, DOM, CSS, WebExtensions API | <a href="https://github.com/dulithdivisekara/sliit-courseweb-cleaner"><img src="assets/icons/extension.png" width="20" height="20" align="absmiddle" alt="Extension" /> <code>sliit-courseweb-cleaner</code></a> |
+| **SLIIT CourseWeb MCP Server** | Autonomous Model Context Protocol (MCP) server for SLIIT CourseWeb (Moodle), bridging course documents, assignments, and announcements directly to AI assistants. | Python, MCP Protocol, Moodle API | <a href="https://github.com/dulithdivisekara/mcp-sliit-courseweb"><img src="assets/icons/mcp.png" width="20" height="20" align="absmiddle" alt="MCP" /> <code>mcp-sliit-courseweb</code></a> |
+| **Enterprise Pharmacy Platform** | Full-stack prescription verification and pharmacist triage platform with Dockerized containerization and relational database modeling. | Java, Jakarta EE, PostgreSQL, Docker | <a href="https://github.com/dulithdivisekara/drug-ordering-system"><img src="assets/icons/java.png" width="20" height="20" align="absmiddle" alt="Java" /> <code>drug-ordering-system</code></a> |
+| **MovieLens Classifier Benchmark** | Empirical evaluation and variance analysis of 6 classification architectures on MovieLens 32M using stratified k-fold cross-validation. | Python, Scikit-learn, Pandas, Jupyter | <a href="https://github.com/dulithdivisekara/movielens-satisfaction-prediction"><img src="assets/icons/ml.png" width="20" height="20" align="absmiddle" alt="ML" /> <code>movielens-satisfaction</code></a> |
 
 ---
 
