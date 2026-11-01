@@ -36,7 +36,7 @@ curl -s whoami.dulith.me
 ```
 
 <p align="center">
-  <img src="assets/terminal_preview.png" alt="Terminal CV Native Linux Terminal" width="800" />
+  <img src="assets/terminal_full_transparent.png" alt="Terminal CV Transparent Output" width="800" />
 </p>
 
 <details>
