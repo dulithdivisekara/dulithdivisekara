@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Dulith Divisekara</h1>
+  <img src="assets/ascii_name_transparent.png" alt="Dulith Divisekara" width="560" />
 </p>
 
 <p align="center">
@@ -102,10 +102,21 @@ curl -s whoami.dulith.me
 
 ## Academic Background
 
-**Sri Lanka Institute of Information Technology (SLIIT)**  
-*BSc (Hons) in Information Technology - Specializing in Cyber Security*  
-- Campus: Malabe, Sri Lanka
+### Sri Lanka Institute of Information Technology (SLIIT)
+*BSc (Hons) in Information Technology - Specializing in Cyber Security (2025 - 2029)*
+- Location: Malabe, Sri Lanka
 - Academic Focus: Network security, system administration, secure software architectures, and automated threat mitigation
+- Campus Leadership: Featured university vocalist and cultural performer (Miyasiya)
+
+### Dharmaraja College, Kandy
+*G.C.E. Advanced Level - Technology Stream & ICT (2022 - 2024)*
+- Curriculum: Information & Communication Technology, Engineering Technology
+- Societies & Leadership: Member of ICT Society, Organizing Committee for Technatia Technology Exhibition, Rajans Eastern Cadet Band (All-Island 2nd Runner-up)
+
+### Sri Chandananda Buddhist College
+*G.C.E. Ordinary Level - Bilingual Medium (2011 - 2021)*
+- Honors: 4-year consecutive academic prize winner, Junior Prefect
+- Societies: Secretary of Sinhala Literary Association, ICT Society, Eastern Cadet Platoon
 
 ---
 
