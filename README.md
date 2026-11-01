@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&lines=Cybersecurity+Undergraduate+%40+SLIIT;Network+Inspection+%26+Protocol+Analysis;Security+Tooling+%26+Systems+Automation;Serverless+Edge+Systems+%26+Cloudflare+Workers" alt="Typing SVG" />
-  </a>
+  I am a Cybersecurity undergraduate at SLIIT who builds systems. I combine core computer science fundamentals, network protocol analysis, and security engineering with modern developer tooling to design, build, and deploy functional software fast.
+</p>
+
+<p align="center">
+  My engineering philosophy centers on practical utility and systems-level leverage. Rather than building theoretical exercises, I focus on solving tangible friction points: reverse-engineering hardware interfaces to build autonomous router management suites, architecting Model Context Protocol (MCP) servers for AI copilots, and developing distraction-free browser extensions published across official web stores. I care deeply about how systems operate across the wire, from raw TCP packets to serverless V8 isolates, maintaining a strict commitment to clean architecture, zero unnecessary bloat, and defensive security.
 </p>
 
 <p align="center">
@@ -24,12 +26,6 @@
   <a href="#academic-background">Education</a> &bull;
   <a href="#contact">Contact</a>
 </p>
-
----
-
-I am a Cybersecurity undergraduate at SLIIT who builds systems. I combine core computer science fundamentals, network protocol analysis, and security engineering with modern developer tooling to design, build, and deploy functional software fast.
-
-My engineering philosophy centers on practical utility and systems-level leverage. Rather than building theoretical exercises, I focus on solving tangible friction points: reverse-engineering hardware interfaces to build autonomous router management suites, architecting Model Context Protocol (MCP) servers for AI copilots, and developing distraction-free browser extensions published across official web stores. I care deeply about how systems operate across the wire, from raw TCP packets to serverless V8 isolates, maintaining a strict commitment to clean architecture, zero unnecessary bloat, and defensive security.
 
 ---
 
